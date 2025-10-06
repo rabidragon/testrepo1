@@ -1,11 +1,1 @@
-hhh
-....
-
-
-there
-
-
-....
-
-
-temp
+This is a test for the Pair Extraordinaire badge.
